@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Canvas xmlns="http://www.jgrasp.org">
+  <Language>Java</Language>
+  <ShowTypes>false</ShowTypes>
+  <Version>2</Version>
+  <Grid>
+    <Snap>true</Snap>
+    <Show>false</Show>
+  </Grid>
+  <Scope id="0">
+    <Name>removeEdgeTest</Name>
+    <Signature>()V</Signature>
+    <DeclaringType>GraphTest</DeclaringType>
+    <Depth>35</Depth>
+  </Scope>
+  <Frame>
+    <Bounds>
+      <AutoSize>false</AutoSize>
+      <X>60</X>
+      <Y>60</Y>
+      <W>609</W>
+      <H>511</H>
+    </Bounds>
+    <PanelSize>
+      <Key>jgrasp_viewers._X_BasicView0</Key>
+      <Order>4</Order>
+      <W>615</W>
+      <H>547</H>
+    </PanelSize>
+    <Viewer>
+      <ScopeID>0</ScopeID>
+      <Expression>`local Graph` g</Expression>
+      <ViewerClass>jgrasp_viewers._X_BasicView</ViewerClass>
+    </Viewer>
+  </Frame>
+  <Size>
+    <W>888</W>
+    <H>759</H>
+  </Size>
+  <ESize>
+    <W>888</W>
+    <H>759</H>
+  </ESize>
+</Canvas>
